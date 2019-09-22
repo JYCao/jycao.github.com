@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/JYCao/jycao.github.com/edi
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+我的个人项目--[计算器FccComputer](https://github.com/JYCao/FccComputer/blob/master/Computer.html)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
